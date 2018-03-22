@@ -1,0 +1,50 @@
+
+--2018-03-22 08:31:55--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:31:56 ERROR 400: Bad Request.
+
+--2018-03-22 08:31:56--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:31:57 ERROR 400: Bad Request.
+
+--2018-03-22 08:31:57--  https://s31.6krnpl.men/hls/qvw/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:31:58 ERROR 400: Bad Request.
+
+--2018-03-22 08:31:58--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:32:00 ERROR 400: Bad Request.
+
+--2018-03-22 08:32:00--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:32:01 ERROR 400: Bad Request.
+
+--2018-03-22 08:32:01--  https://s31.6krnpl.men/hls/qvwgets/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:32:02 ERROR 400: Bad Request.
+
+--2018-03-22 08:32:02--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:32:03 ERROR 400: Bad Request.
+
+--2018-03-22 08:32:03--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:32:04 ERROR 400: Bad Request.
+
+--2018-03-22 08:32:04--  https://s31.6krnpl.men/hls/qvwget
+Reusing existing connection to s31.6krnpl.men:443.
+HTTP request sent, awaiting response... 400 Bad Request
+2018-03-22 08:32:05 ERROR 400: Bad Request.
+
+/qvwget: Scheme missing.
+--2018-03-22 08:32:05--  http://ht3blgwsztrikaywjkfwivoa334grixbcpaq42lhnrf4n75bu3rta/seg-78-v1-a1.jpg
+Resolving ht3blgwsztrikaywjkfwivoa334grixbcpaq42lhnrf4n75bu3rta... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘ht3blgwsztrikaywjkfwivoa334grixbcpaq42lhnrf4n75bu3rta’
